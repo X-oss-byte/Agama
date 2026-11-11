@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    agama (3)
+    agama (3.devel424)
       cfa (~> 1.0.2)
       cfa_grub2 (~> 2.0.0)
       cheetah (~> 1.0.0)
@@ -58,9 +58,7 @@ GEM
     simplecov-html (0.12.3)
     simplecov-lcov (0.8.0)
     simplecov_json_formatter (0.1.4)
-    webrick (1.7.0)
-    yard (0.9.28)
-      webrick (~> 1.7.0)
+    yard (0.9.45)
 
 PLATFORMS
   x86_64-linux
