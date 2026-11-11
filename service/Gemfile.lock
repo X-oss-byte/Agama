@@ -1,13 +1,13 @@
 PATH
   remote: .
   specs:
-    agama (3)
+    agama (3.devel424)
       cfa (~> 1.0.2)
       cfa_grub2 (~> 2.0.0)
       cheetah (~> 1.0.0)
       eventmachine (~> 1.2.7)
       fast_gettext (~> 2.2.0)
-      nokogiri (~> 1.13.1)
+      nokogiri (~> 1.19.0)
       rexml (~> 3.2.5)
       ruby-dbus (>= 0.23.0.beta2, < 1.0)
 
@@ -26,13 +26,11 @@ GEM
     docile (1.4.0)
     eventmachine (1.2.7)
     fast_gettext (2.2.0)
-    mini_portile2 (2.8.4)
-    nokogiri (1.13.10)
-      mini_portile2 (~> 2.8.0)
+    nokogiri (1.19.7-x86_64-linux-gnu)
       racc (~> 1.4)
     packaging_rake_tasks (1.5.1)
       rake
-    racc (1.7.1)
+    racc (1.8.1)
     rake (13.0.6)
     rexml (3.2.6)
     rspec (3.11.0)
